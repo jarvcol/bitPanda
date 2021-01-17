@@ -27,9 +27,3 @@ Depending on the IDE used and the plugins the project can be run either:
 - Using maven (will run test in parallel and create a more friendly report):
   * mvn clean compile (to clean a compile the project)
   * mvn verify (to actually run the test)
-
-Reports can be found in the target folder once executed (depending on the way you execute the test different reports may appear). 
-There are multiple reports but best one should be located in ..target/cucumber-report-html/cucumber-html-reports
-
-Regards.
-
