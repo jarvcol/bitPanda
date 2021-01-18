@@ -30,6 +30,10 @@ Depending on the IDE used and the plugins the project can be run either:
 
 Reports can be found in the target folder once executed (depending on the way you execute the test different reports may appear). 
 There are multiple reports but best one should be located in ..target/cucumber-report-html/cucumber-html-reports
+![Report example 1](https://github.com/jarvcol/bitPanda/blob/addImagesReadMe/reportImg/consoleOutput.png)
+
+![Report example 2](https://github.com/jarvcol/bitPanda/blob/addImagesReadMe/reportImg/cucumberReport.png)
+
 
 Regards.
 
